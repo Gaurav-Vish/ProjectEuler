@@ -12,14 +12,5 @@ class Problem3{
             }
         }
         Console.WriteLine(n);
-        // while (n%2)
-        // {
-            
-        // }
-
-        // primefactor(n);
     }
-    // public static int primefactor(n){
-
-    // }
 }

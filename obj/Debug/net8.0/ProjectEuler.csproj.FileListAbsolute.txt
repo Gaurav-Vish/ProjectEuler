@@ -12,3 +12,4 @@
 /Users/gauravvishwakarma/Desktop/Coding/Learning/ProjectEuler/obj/Debug/net8.0/ProjectEuler.pdb
 /Users/gauravvishwakarma/Desktop/Coding/Learning/ProjectEuler/obj/Debug/net8.0/ProjectEuler.genruntimeconfig.cache
 /Users/gauravvishwakarma/Desktop/Coding/Learning/ProjectEuler/obj/Debug/net8.0/ref/ProjectEuler.dll
+/Users/gauravvishwakarma/Desktop/Coding/Learning/ProjectEuler/obj/Debug/net8.0/ProjectEuler.sourcelink.json
