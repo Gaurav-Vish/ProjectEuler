@@ -10,7 +10,8 @@ namespace Program
             // Problem2.afunc();
             // Problem3.afunc(600851475143);
             // Problem4.afunc();
-            Problem5.afunc(1, 20);
+            // Problem5.afunc(1, 20);
+            Problem6.afunc(100);
         }
     }
     
